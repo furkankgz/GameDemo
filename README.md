@@ -1,5 +1,5 @@
 # GameDemo
-Yazılım Kampı 4. Gün Ödevi
+Yazılım Kampı Ödevi
 
 
 * Bir oyun yazmak istiyorsunuz. 
